@@ -1,5 +1,8 @@
 package com.juns.wechat;
 
+/**
+ * 常量
+ */
 public interface Constants {
 
 	// 聊天
